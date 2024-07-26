@@ -2,5 +2,6 @@
 
 -------
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsb1320&count_bg=%23BA00F9&title_bg=%23000000&icon=iconify.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csb1320&layout=compact&bg_color=000000)](https://github.com/csb1320/github-readme-stats)
 [![Seongbin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=seongbin&include_all_commits=true&show_icons=true&theme=cobalt&bg_color=000000)](https://github.com/csb1320/github-readme-stats)
