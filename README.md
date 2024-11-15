@@ -18,5 +18,5 @@
 </a>
 
 <a href="https://app.gitpokecol.org">
-  <img src="https://gitpokecol.org/pokemons/{csb1320}" alt="{csb1320}'s GitHub Pokemon Collection"/>
+  <img src="https://gitpokecol.org/pokemons/csb1320" alt="seongbin's GitHub Pokemon Collection"/>
 </a>
