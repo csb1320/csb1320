@@ -7,3 +7,12 @@
 
 ![Seongbin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=csb1320&include_all_commits=true&show_icons=true&theme=cobalt&bg_color=000000)
 </div>
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/csb1320"
+  width="600"
+  height="300"
+/>
+</a>
